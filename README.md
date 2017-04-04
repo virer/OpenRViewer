@@ -4,7 +4,7 @@ A java base application using RFB protocol(VNC) connecting through a router on i
 Goal: doing remote computer access inside and outside a company passing through Firewalls and routers without problem
 
 
-[Remote Computer]--->[FW]--->{Internet}<---[FW]<---[Manager]
+[Remote Computer]--->[FW]--->{Internet}<---[FW]<---[Manager]\s\s
  [OpenRRouter]--------------------^
 
 ### LICENSE
