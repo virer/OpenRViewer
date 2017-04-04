@@ -1,0 +1,9 @@
+Fix Robot Keyboard: Special character/foreign keyboard
+Fix Robot Keyboard: SHIFT+ARROWS text/file selection
+Fix Robot Mouse: click selection
+Fix Robot Mouse: right click
+Add prefered(local) OpenRRouter server option (with no certificate verification) use this FQDN: preferred.srv.openrviewer.org
+Add server selection
+Add encodingType selection on RCuser part
+Add Tigh encoding support (Help needed)
+Use Websocket transport for maximum firewall/proxies compatibility
